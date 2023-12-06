@@ -20,7 +20,7 @@ pip install -r requirements.txt
 The **links.csv** file contains the Youtube URLs and has to be ordered in the file in this way
 <p align="left"><img width="137" alt="Screenshot 2023-12-06 at 11 25 00" src="https://github.com/mahiman12/yt-to-mp4/assets/44576514/1f3cf4d5-4eaf-4509-a037-507f1bd2c2c8"></p>
 
-In case you need to make this list from a playlist, there is a [website](https://www.thetubelab.com/get-all-urls-of-youtube-playlist-channel/ "website") that provides the URLs of all the videos in the playlist. You can paste the link of your youtube playlist there, and straighaway copy-paste the URLs of all the videos in the **links.csv** file.
+**NOTE:** In case you need to make this list from a playlist, there is a [website](https://www.thetubelab.com/get-all-urls-of-youtube-playlist-channel/ "website") that provides the URLs of all the videos in the playlist. You can paste the link of your youtube playlist there, and straighaway copy-paste the URLs of all the videos in the **links.csv** file.
 
 ## Run
 
